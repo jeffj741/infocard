@@ -1,85 +1,98 @@
 ---
 name: Jeffrey Jackson
-title: Consultant
+title: Founder · Systems Architect
 location: Oklahoma City, OK
-summary: Consultant focused on operations, systems optimization, and emerging technology strategy. Building Inner Resonance and Love Loop™, a next-generation emotional regulation wearable platform.
-tags: [consultant, consulting, operations, strategy, leadership, ai, product, technology, systems, customer-experience]
-open_to: [contract, consulting]
+summary: Founder of SignalBridge Labs™ building governed adaptive interfaces, human-systems intelligence, and consent-aware haptic orchestration.
+tags: [founder, signalbridge-labs, rhythm-os, inner-resonance, haptics, human-systems, operations, systems-design, ai]
+open_to: [research-partnerships, consulting, product-strategy, operations]
 ---
 
 # Jeffrey Jackson
 
-**Consultant** · Oklahoma City, OK  
+**Founder · Systems Architect · U.S. Army Veteran**  
+SignalBridge Labs™ · Oklahoma City, OK  
 [LinkedIn](https://www.linkedin.com/in/jeffj741/) · [GitHub](https://github.com/jeffj741)
 
----
-
-## About
-
-I am a systems-driven consultant focused on operational clarity, customer experience optimization, and strategic execution. My background includes high-stakes service environments, escalation-based problem solving, and real-world operational leadership.
-
-I specialize in translating complexity into structured workflows, scalable systems, and high-integrity execution.
-
-Currently, I am building **Inner Resonance** and **Love Loop™**, a wearable technology ecosystem focused on real-time nervous system regulation, biofeedback-driven stabilization, and human-centered emotional technology.
+> I build systems that turn complex human signals into governed, usable action—without losing the person inside the data.
 
 ---
 
-## Experience
+## The work
 
-### Operations Support and Escalations — Costco Wholesale
-*2025 – Present*
+SignalBridge Labs™ is a human-systems research and product studio exploring how physiological, behavioral, environmental, and contextual signals can become clearer operational understanding.
 
-- Support high-volume customer service operations with emphasis on de-escalation and resolution accuracy
-- Identify fraud patterns and layered social engineering attempts while maintaining policy integrity
-- Provide calm, structured communication in high-pressure customer scenarios
-- Strengthen workflow consistency through disciplined documentation and repeatable process execution
+The recurring design question is simple:
 
-### U.S. Army — Operations and Leadership
-*Former Service Member*
+**How do we make adaptive systems more capable without making them less accountable?**
 
-- Led teams under high-pressure environments requiring discipline, clarity, and rapid decision making
-- Built operational readiness systems and mission execution frameworks
-- Developed leadership skills rooted in structure, accountability, and calm execution
+| SignalBridge Labs™ | Rhythm OS™ | Inner Resonance |
+|---|---|---|
+| Human-systems research and product strategy | An interpretation platform for complex operational environments | A research program for relational, haptic, and somatic interfaces |
+| Governance before intervention | Sensors provide measurements; the system provides meaning | Consent-aware calibration and bounded adaptive response |
+| Research translated into usable systems | Built for performance, resilience, readiness, and recovery | Love Loop™ explores governed haptic orchestration |
 
 ---
 
-## Projects
+## Current focus
 
-### Inner Resonance
-A human-centered wellness and performance system focused on emotional regulation, nervous system stability, and personal signal mastery.
+### Rhythm OS™
 
-- Framework-driven product ecosystem
-- Designed for long-term regulation rather than short-term stimulation
-- Built around ethical safeguards and consent-aware calibration
+Interpretation infrastructure for complex human and environmental streams—designed to preserve evidence quality, baseline lineage, uncertainty, and human authority.
+
+### Relational Haptic Architecture
+
+A foundational research framework for governed orchestration across sensing, interpretation, objective selection, consent, semantic composition, safe rendering, and objective-relative recheck.
 
 ### Love Loop™
-A wearable biofeedback-based emotional technology platform designed for real-time nervous system synchronization and regulation.
 
-- Dynamic haptic feedback architecture
-- Consent-aware calibration systems
-- Subscription-based tiers for solo, dyadic, and group regulation modes
+A research program exploring relational haptic interfaces, somatic feedback, dyadic context, and consent-aware calibration.
 
 ---
 
-## Skills
+## What I bring
 
-| Category | Strengths |
-|---------|-----------|
-| Strategy | Product vision, system design, operational planning |
-| Operations | Process optimization, escalation management, execution discipline |
-| Customer Experience | High-stakes resolution, de-escalation, policy enforcement |
-| Technology | AI systems thinking, wearable product strategy, feedback-loop architecture |
-| Leadership | Calm command presence, team alignment, accountability |
+| Discipline | Focus |
+|---|---|
+| Operations | Escalation management, process integrity, repeatable execution |
+| Systems | Architecture, workflow design, constraint mapping, causal order |
+| Product | Research translation, scenario design, prototype strategy |
+| Leadership | Calm command presence, accountability, mission clarity |
+| Human systems | Consent, uncertainty, noninterference, relational context |
 
 ---
 
-## Availability
+## Background
 
-> Open to consulting and contract-based roles in operations, customer experience strategy, product execution, and emerging tech support.
+### U.S. Army
+
+Operations, readiness, leadership, and decision-making under pressure.
+
+### Operations & Customer Experience
+
+High-volume service environments, de-escalation, policy integrity, fraud awareness, and resolution accuracy.
+
+My work tends to live at the intersection of **mission discipline, systems thinking, and human consequence**.
+
+---
+
+## Operating principles
+
+- Truth before interpretation.
+- Evidence before authority.
+- Consent before actuation.
+- Uncertainty narrows what a system may do.
+- No subsystem gets to be the judge, author, executor, and critic of its own action.
+- A prototype should be honest about where the research ends.
+
+---
+
+## Open to
+
+Research partnerships, thoughtful consulting, product strategy, operations and systems work, and conversations with people building more accountable adaptive technology.
 
 ---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/jeffj741/  
-- GitHub: https://github.com/jeffj741
+- **LinkedIn:** https://www.linkedin.com/in/jeffj741/
+- **GitHub:** https://github.com/jeffj741
